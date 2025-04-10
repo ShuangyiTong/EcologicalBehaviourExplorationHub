@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Ecological Behaviour Exploration Hub
+subtitle: by Aversive Learning Lab
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Presenting a series of ecological behaviour research tools and datasets
+baseurl: "/main" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Old Road Campus Building
+city: Oxford
+state: 
+zip_code: OX3 7DQ
+country: 
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
