@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: page
 title: All posts
 landing-title: 'All posts'
 nav-menu: true
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>All posts</h1>
+<h1>To be updated</h1>
